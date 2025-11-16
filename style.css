@@ -1,0 +1,61 @@
+body{
+  margin: 0px;
+  background: linear-gradient(white, plum, white, blue);
+  background-repeat: no-repeat;
+  
+}
+0{
+  color: 
+}
+h1{
+  text-align: center;
+  font-size: 60px;
+  color: yellow;
+  text-shadow: 12px -4px 10px black;
+}
+table{
+  margin-top: -44px;
+  border-spacing: 30px;
+  font-size: 37px;
+  border: 0px solid black;
+  margin-left: 0px;
+  width: 100%;
+}
+table tr td{
+  color: ;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 20px;
+  border: 2px solid black;
+  background:  lightsalmon;
+  box-shadow: 9px 3px 24px 0px black;
+}
+td a{
+   text-shadow: 3px 5px 2px red;
+  color: aqua;
+}
+.a{
+  border: 2px solid blue;
+  margin-bottom: 20px;
+  margin-left: 26px;
+  width:94%;
+  border-radius: 60px;
+  height: 1300px;
+  background: linear-gradient(skyblue, white, plum);
+}
+hr{
+  height: 8px;
+  background: darkgoldenrod
+}
+.a p{
+  color:  red;
+  margin-top: 2px;
+  font-weight: bold;
+  font-size: 60px;
+  font-family: cursive;
+  text-shadow: 3px 4px 4px yellow;
+  text-align: center;
+}
+{
+  color: lightgoldenrodyellow lemonchiffon plum turquoise navajowhite lightpink lightsalmon cornflowerblue  mistyrose lavenderblush lavender 
+}
