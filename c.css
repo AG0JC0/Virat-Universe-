@@ -1,7 +1,7 @@
      body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background: linear-gradient(95deg, #FFB300, #FFCA28, #FFF3B0);
+            background: linear-gradient( #FFB300, #FFCA28, #FFF3B0);
 
             color: white;
             text-align: center;
@@ -9,7 +9,7 @@
 
         /* Simple Horizontal Navbar */
         table {
-               background: rgba(255, 255, 255, 0.2);
+               
                margin: 0;
           border-spacing: 10px;
                height: 25px;
@@ -50,7 +50,7 @@ h3{
             max-width: 900px;
             margin: 10px;
             padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
+            background: khaki;
             border-radius: 25px;
         }
 
@@ -85,4 +85,3 @@ h3{
        background: linear-gradient(35deg, #B10000, #FF4C4C, #FFB3B3);
 
 }
-
