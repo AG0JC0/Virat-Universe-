@@ -95,6 +95,16 @@ h3{
             line-height: 2;
             margin: 10px;
         }
+.footer{
+       font-size: 20px;
+       margin-top: 20px;
+       height: 30px;
+       background: white;
+       color: black;
+       font-family: serif;
+       font-weight: bold;
+       text-align: justify-all;
+             }
 #a{
        background: linear-gradient(35deg, #B10000, #FF4C4C, #FFB3B3);
 
