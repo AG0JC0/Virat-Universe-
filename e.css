@@ -70,12 +70,13 @@ p{
 }
 
 .footer{
-       font-size: 40px;
+       
+       font-size: 50px;
        margin-top: 20px;
-       height: 30px;
-       background: white;
+       height: 80px;
+       background: gainsboro;
        color: black;
        font-family: serif;
        font-weight: bold;
-       text-align: centre;
-    }
+       text-align: center;
+}
