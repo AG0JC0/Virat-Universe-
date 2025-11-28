@@ -1,7 +1,7 @@
      body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background: linear-gradient(0deg, #0A1A2F, skyblue, skyblue);
+            background: linear-gradient( #0A1A2F, skyblue, skyblue);
             color: white;
             text-align: center;
         }
@@ -49,7 +49,7 @@ h3{
             max-width: 900px;
             margin: 10px;
             padding: 20px;
-            background: rgba(255, 255, 255, 0.1);
+            background: lightpink;
             border-radius: 25px;
         }
 
