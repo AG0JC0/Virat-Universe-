@@ -89,6 +89,16 @@ border-bottom-right-radius: 100px;
 border: 3px solid navy;   
    box-shadow: 9px 3px 54px 1px red;
 }
+.footer{
+       font-size: 20px;
+       margin-top: 20px;
+       height: 30px;
+       background: white;
+       color: black;
+       font-family: serif;
+       font-weight: bold;
+       text-align: justify-all;
+}
 {
   color: lightgoldenrodyellow lemonchiffon plum turquoise navajowhite lightpink lightsalmon cornflowerblue  mistyrose lavenderblush lavender 
 }
